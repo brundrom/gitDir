@@ -1,0 +1,1 @@
+Changed empty file. Try to log own service. If you see that message - failed.
